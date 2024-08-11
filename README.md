@@ -1,6 +1,6 @@
 # Car Price Prediction: 95% Accuracy Achieved
 
-![Car Price Distribution]([https://i.imgur.com/7NGRv0C.png](https://storage.googleapis.com/kaggle-datasets-images/383055/741735/4e7acec211a711b2669d91a771c0b4ca/dataset-cover.jpg?t=2019-10-15-16-49-42))
+![Car Price Distribution]([newplot.png))
 
 ## Overview
 
