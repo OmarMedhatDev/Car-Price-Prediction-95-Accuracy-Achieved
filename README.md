@@ -1,6 +1,6 @@
 # Car Price Prediction: 95% Accuracy Achieved
 
-![Car Price Distribution][newplot.png)
+![Car Price Distribution](newplot.png)
 
 ## Overview
 
