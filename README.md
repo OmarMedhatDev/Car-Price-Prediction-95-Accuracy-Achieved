@@ -1,6 +1,6 @@
 # Car Price Prediction: 95% Accuracy Achieved
 
-![Car Price Distribution](https://i.imgur.com/7NGRv0C.png)
+![Car Price Distribution](images/newplot.png)
 
 ## Overview
 
@@ -14,9 +14,9 @@ We used the Car Price Assignment dataset, which includes various features of car
 
 We performed extensive EDA to understand the relationships between different features and the target variable (price).
 
-![Car Prices by Body Type](https://i.imgur.com/AGI2e8G.png)
+![Car Prices by Body Type](images/plot2.png)
 
-![Engine Size vs Horsepower](https://i.imgur.com/zVGnyYD.png)
+![Engine Size vs Horsepower](images/plot3.png)
 
 ## Feature Engineering
 
