@@ -14,9 +14,9 @@ We used the Car Price Assignment dataset, which includes various features of car
 
 We performed extensive EDA to understand the relationships between different features and the target variable (price).
 
-![Car Prices by Body Type](newplot.png (1))
+![Car Prices by Body Type](newplot (1).png)
 
-![Engine Size vs Horsepower](newplot.png (2))
+![Engine Size vs Horsepower](newplot (2).png)
 
 ## Feature Engineering
 
