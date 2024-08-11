@@ -16,7 +16,7 @@ We performed extensive EDA to understand the relationships between different fea
 
 ![Car Prices by Body Type](newplot.png(1))
 
-![Engine Size vs Horsepower](https://i.imgur.com/zVGnyYD.png)
+![Engine Size vs Horsepower](newplot.png(2))
 
 ## Feature Engineering
 
@@ -35,17 +35,10 @@ We created several new features to improve our model's performance:
 
 Our best model achieved an R-squared score of 0.95, indicating excellent predictive power.
 
-![Feature Importance](https://i.imgur.com/MX6wDqD.png)
-
 ## Conclusion
 
 Through careful feature engineering and model selection, we were able to create a highly accurate car price prediction model. The engineered features proved to be valuable in improving the model's performance.
 
-## Future Work
-
-- Implement more advanced algorithms like Random Forests and Gradient Boosting
-- Collect more data, especially for underrepresented categories
-- Explore non-linear relationships between features
 
 ## How to Use
 
@@ -55,11 +48,8 @@ Through careful feature engineering and model selection, we were able to create 
 
 ## Author
 
-[Your Name]
+Omar Medhat
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
