@@ -31,35 +31,16 @@ We created several new features to improve our model's performance:
 2. Ridge Regression
 3. Lasso Regression
 
-## Results
-
-Our best model achieved an R-squared score of 0.95, indicating excellent predictive power.
-
-![Feature Importance](https://i.imgur.com/MX6wDqD.png)
 
 ## Conclusion
 
 Through careful feature engineering and model selection, we were able to create a highly accurate car price prediction model. The engineered features proved to be valuable in improving the model's performance.
 
-## Future Work
-
-- Implement more advanced algorithms like Random Forests and Gradient Boosting
-- Collect more data, especially for underrepresented categories
-- Explore non-linear relationships between features
-
-## How to Use
-
-1. Clone this repository
-2. Install the required packages: `pip install -r requirements.txt`
-3. Run the Jupyter notebook: `jupyter notebook Car_Price_Prediction.ipynb`
 
 ## Author
 
-[Your Name]
+Omar Medhat
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
