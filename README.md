@@ -40,12 +40,6 @@ Our best model achieved an R-squared score of 0.95, indicating excellent predict
 Through careful feature engineering and model selection, we were able to create a highly accurate car price prediction model. The engineered features proved to be valuable in improving the model's performance.
 
 
-## How to Use
-
-1. Clone this repository
-2. Install the required packages: `pip install -r requirements.txt`
-3. Run the Jupyter notebook: `jupyter notebook Car_Price_Prediction.ipynb`
-
 ## Author
 
 Omar Medhat
